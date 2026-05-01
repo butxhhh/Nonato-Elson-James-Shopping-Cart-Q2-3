@@ -1,6 +1,6 @@
 # Shopping Cart System (Part 2)
 
-## 📖 Project Overview
+## Project Overview
 
 This is a C# Console-based Shopping Cart System enhanced with advanced cart features, checkout validation, receipt generation, stock alerts, and order history.
 
