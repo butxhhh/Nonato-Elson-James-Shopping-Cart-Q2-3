@@ -1,0 +1,14 @@
+    static void ShowHistory()
+    {
+        Console.WriteLine("\n==== ORDER HISTORY ====");
+
+        if (historyCount == 0)
+        {
+            Console.WriteLine("No orders yet.");
+            return;
+        }
+
+        for (int i = 0; i < historyCount; i++)
+            Console.WriteLine(orderHistory[i]);
+    }
+}

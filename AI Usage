@@ -1,21 +1,15 @@
-AI USAGE IN THIS PROJECT
-- Structuring the object-oriented design (Product and CartItem classes)
-- Implementing validation logic using best practices (int.TryParse)
-- Designing cart duplicate handling logic
+AI Usage
 
-Why AI was used
-- follow proper C# coding standards
-- reduce logical errors in validation and looping
+AI tools were used as a development assistant during the project.
 
-Prompts used
-- "How to prevent duplicate items in cart array C#"
-- "Use int.TryParse for input validation C# example"
+### Tasks Assisted by AI
 
-Improvements after AI
-- Added better validation messages
-- Improved cart structure (separate CartItem class)
-- Added discount logic and final receipt formatting
-
-NOTES
-- Program runs continuously until user presses N
-- Prevents invalid input and crashes
+- Refactored and organized the C# shopping cart code
+- Improved menu navigation and cart management logic
+- Added product search and category filter features
+- Implemented checkout payment validation and change calculation
+- Helped create receipt number, date/time, and order history system
+- Suggested low stock alert functionality
+- Improved error handling and input validation
+- Fixed UTF-8 Peso sign display issue in console output
+- Suggested cleaner formatting for receipt and menu outputs
